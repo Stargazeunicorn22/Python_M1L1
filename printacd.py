@@ -1,6 +1,3 @@
-print("hello")
-print("😁😊")
-
 print("""In the morning, I wake up at 7 am and then eat breakfast by 8.
 Then start studying for 2 hours! 
 Afterwards, I go to my classes and return home for lunch around 12. 
